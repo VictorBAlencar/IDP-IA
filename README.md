@@ -18,7 +18,7 @@ O conteúdo está organizado por temas ou listas de exercícios:
 Como Utilizar
 Para acessar os arquivos, você pode:
 
-Clonar o repositório: git clone https://github.com/VictorBAlencar/idp-python.git
+Clonar o repositório
 
 Baixar como ZIP: No GitHub, clique em "Code" e depois em "Download ZIP".
 
